@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josec\\source\\repos\\portafolio\\portafolio\\portafolio.csproj": {}
+    "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Programacion_movil_2\\portafolio\\portafolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josec\\source\\repos\\portafolio\\portafolio\\portafolio.csproj": {
+    "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Programacion_movil_2\\portafolio\\portafolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josec\\source\\repos\\portafolio\\portafolio\\portafolio.csproj",
+        "projectUniqueName": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Programacion_movil_2\\portafolio\\portafolio.csproj",
         "projectName": "portafolio",
-        "projectPath": "C:\\Users\\josec\\source\\repos\\portafolio\\portafolio\\portafolio.csproj",
+        "projectPath": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Programacion_movil_2\\portafolio\\portafolio.csproj",
         "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josec\\source\\repos\\portafolio\\portafolio\\obj\\",
+        "outputPath": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Programacion_movil_2\\portafolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
