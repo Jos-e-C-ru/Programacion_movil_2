@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NhgqBIRDtviFFY9ceF1yYTJ6hoCpY0Y+tGwx1SJeBjuSvBEBDENaEUEWu+H2q3R3rwLrRRZTmW3bnbSkYOW0Ew==",
+  "dgSpecHash": "L7gfMw7ixCLFpTmU8eOvdVCf+PK9bI1ux+MtCJ73QSfddCoch6abqdNVr1YgJxnO83oWzwWEUMyIPoTHxKQvCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\josec\\OneDrive\\Documentos\\GitHub\\Programacion_movil_2\\portafolio\\portafolio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\josec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\josec\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\josec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\josec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+    "C:\\Users\\josec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\josec\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\josec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\josec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }
